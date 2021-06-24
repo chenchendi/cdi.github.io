@@ -1,6 +1,3 @@
--[Home](README.md)
-
--**Research**
-  -[Research](/research/README.md)
--**Teaching**
-  -[Teaching](/teaching/)
+*[Home](README.md)
+*[Research](/research/README.md)
+*[Teaching](/teaching/README.md)
