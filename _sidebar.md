@@ -1,4 +1,4 @@
-* [home1](home1)
-* [home2](home2)
-* [bar](bar/)
-* [bar/a](bar/a)
+* [home1](Home)
+* [home2](Research)
+* [bar](Teaching)
+* [bar/a](Others)
