@@ -1,4 +1,4 @@
-* [## Home](Home)
-* [## Research](Research)
-* [## Teaching](Teaching)
-* [## Others](Others)
+* [Home](Home)
+* [Research](Research)
+* [Teaching](Teaching)
+* [Others](Others)
