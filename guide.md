@@ -1,4 +1,4 @@
 -**Research**
-  -[Homepage](/research/)
+  -[Research](/research/)
 -**Teaching**
-  -[Homepage](/teaching/)
+  -[Teaching](/teaching/)
