@@ -1,4 +1,4 @@
-* [Home](Home)
-* [Research](Research)
-* [Teaching](Teaching)
+  * [Home](README.md)
+* [Research](_research.md)
+* [Teaching](_teaching.md)
 
