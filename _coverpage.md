@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
-# 我的文档网站
-## 个人文档网站
+# Chenchen's Personal Website
+
 > 一个神奇的文档网站生成巩固
 * Simple and lightweight (~12kb gzipped)
 * Multiple themes
