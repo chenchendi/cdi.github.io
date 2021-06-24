@@ -1,4 +1,4 @@
-docs/README.md        => http://domain.com
-docs/guide.md         => http://domain.com/#/guide
-docs/zh-cn/README.md  => http://domain.com/#/zh-cn/
-docs/zh-cn/guide.md   => http://domain.com/#/zh-cn/guide
+docs/_coverpage.md        => http://chenchendi.github.io
+docs/README.md         => http://chenchendi.github.io/#/home
+docs/_teaching.md  => http://chenchendi.github.io/#/teaching
+docs/_research.md   => http://chenchendi.github.io/#/research
