@@ -1,4 +1,2 @@
--**Research**
-  -[Research](/research/)
--**Teaching**
-  -[Teaching](/teaching/)
+-*[Research](/research/)
+-*[Teaching](/teaching/)
